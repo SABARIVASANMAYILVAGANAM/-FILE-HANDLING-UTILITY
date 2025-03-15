@@ -17,4 +17,4 @@ File handling is an essential concept in Java that enables programs to create, r
 
 #OUTPUT
 
-![Image](https://github.com/user-attachments/assets/92582cd6-e27b-462f-834e-9b1d4ffe1d57)
+![Image](https://github.com/user-attachments/assets/7db8a84c-8e7a-4a3d-8701-09f21fd54e0a)
